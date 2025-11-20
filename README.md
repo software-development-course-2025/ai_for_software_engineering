@@ -1,4 +1,4 @@
-## 🧠 AI for Software Engineering
+# 🧠 AI for Software Engineering
 
 This repository explores how **Artificial Intelligence** can be applied to various activities in **Software Engineering**.  
 It includes examples, scripts, and concepts that demonstrate how AI can support tasks such as requirement analysis, code generation, testing, maintenance, and documentation.
