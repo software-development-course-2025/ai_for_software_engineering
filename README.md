@@ -22,10 +22,9 @@ This is a fork of the original project:
 ```bash
 ai_for_software_engineering/
 │
-├── src/ # Code examples, scripts, notebooks
-├── docs/ # Supporting documentation
-├── data/ # Sample datasets
-└── README.md # Repository showcase
+├── src/        # Code examples, scripts, notebooks
+├── docs/       # Supporting documentation
+└── README.md   # Repository showcase
 ```
 
 ---
